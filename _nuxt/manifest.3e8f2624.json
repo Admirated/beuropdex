@@ -1,0 +1,9 @@
+{
+  "name": "beurop",
+  "short_name": "beurop",
+  "icons": [],
+  "start_url": "/beuropdex/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
